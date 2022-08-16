@@ -23,7 +23,7 @@ Adafruit LSM303AGR Accelerometer Magnetometer - STEMMA QT Qwiic
 > https://www.adafruit.com/product/4413
 
 
-The diagram below shows How the are to be connected:
+### The diagram below shows How the are to be connected:
 
 ![](assets/diagram.jpg)
 
