@@ -4,7 +4,7 @@ In my spare time I thought it could be a cool idea to build my own Smart Watch.
 
 https://user-images.githubusercontent.com/40139531/184817293-4f2a9607-cb99-414f-9b66-a0cfe052e9a7.mp4
 
-### I made use of the following Four boards:
+### I made use of the following four circuit boards:
 
 Adafruit QT Py ESP32 Pico - WiFi Dev Board with STEMMA QT - 8MB Flash 2MB PSRAM
 
